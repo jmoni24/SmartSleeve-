@@ -1,0 +1,1 @@
+export const BASE_URL = 'http://10.102.226.201:3000'
